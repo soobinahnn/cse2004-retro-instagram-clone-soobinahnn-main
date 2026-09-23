@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "cse2004"
+assignment: "retro-instagram-clone"
+owner:
+  username: "soobinahnn"
+  id: 179755654
+  accepted_at: "2026-09-23T04:58:20Z"
+source:
+  owner: "washu-cse2004-fl2026-1"
+  owner_id: 301858211
+  repo: "starter-html-instagram"
+  branch: "main"
